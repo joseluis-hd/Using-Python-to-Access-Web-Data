@@ -1,2 +1,13 @@
 # Using-Python-to-Access-Web-Data
-Using Python to Access Web Data course by the University of Michigan
+
+Here you can find the quizzes and activities of this course offered by University of Michigan.
+
+Hope you find this usefull 😄
+
+**JL**
+
+💻
+```
+Insta: @joseluis_hd_
+TW: @hd_joseluis
+```
