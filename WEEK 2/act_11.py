@@ -1,5 +1,4 @@
 import re
-
 name = input("Enter file: ")
 if len(name) < 1 : name = "regex_sum_1671080.txt" #The name of the file depends on the file given
 handle = open(name)
