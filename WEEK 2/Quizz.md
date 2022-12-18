@@ -1,4 +1,4 @@
-**1. Which of the following best describes "Regular Expressions"?**
+**1. Which of the following best describes "Regular Expressions"?** 
 ```
   1) A way to solve Algebra formulas for the unknown value
   
